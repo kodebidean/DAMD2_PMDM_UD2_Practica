@@ -8,7 +8,7 @@ class ProviderComunidades {
     companion object {
         fun cargarLista(): MutableList<Comunidad> {
             return mutableListOf(
-                Comunidad(1, "Andalucía", R.drawable.asturias),
+                Comunidad(1, "Andalucía", R.drawable.andalucia),
                 Comunidad(2, "Aragón", R.drawable.aragon),
                 Comunidad(3, "Asturias", R.drawable.asturias),
                 Comunidad(4, "Islas Baleares", R.drawable.baleares),
